@@ -1,6 +1,4 @@
-## Hi there 👋
-
-{Link: GitHub Stats https://github.com/anuraghazra/github-readme-stats}
+## Hi there 👋, you are seeing Ramiro's profile
 
 <!--
 **ramiiaguirre/ramiiaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
