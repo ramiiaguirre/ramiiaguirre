@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramiiaguirre&show_icons=true&theme=default&hide_border=true)
 
 ## 📫 Contacto
 
